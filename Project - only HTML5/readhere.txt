@@ -1,0 +1,3 @@
+This project aimed just to practice HTML5 without other inputs
+
+The site was created using tables, which isn't the recommended approach, but was applie here just for practice.
